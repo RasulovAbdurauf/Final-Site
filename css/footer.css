@@ -1,0 +1,27 @@
+.telegramim{
+    width: 40px;
+    height: 40px;
+}
+.instagramim{
+    width: 55px;
+    height: 55px;
+    margin-left: -10px;
+}
+.ins{
+    line-height: 55px;
+    color: white;
+}
+.tell{
+    line-height: 35px;
+    color: white;
+}
+.hamras{
+    width: 200px;
+}
+.hamrass{
+    width: 50px;
+}
+.hamrasss{
+    width: 200px;
+    margin-left: -22px;
+}
